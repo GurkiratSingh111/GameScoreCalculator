@@ -1,5 +1,6 @@
-package com.example.ModelPackage;
+package ca.cmpt276.gamemodule.model;
 import java.util.ArrayList;
+
 public class GameManager {
     public ArrayList<Game> game;
 

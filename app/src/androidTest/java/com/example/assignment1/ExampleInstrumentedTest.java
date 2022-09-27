@@ -1,4 +1,4 @@
-package com.example.ModelPackage;
+package ca.cmpt276.gamemodule.ModelPackage;
 
 import android.content.Context;
 

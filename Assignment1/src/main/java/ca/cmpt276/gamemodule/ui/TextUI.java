@@ -1,8 +1,8 @@
-package TextUIPackage;
+package ca.cmpt276.gamemodule.ui;
 
-import com.example.ModelPackage.Game;
-import com.example.ModelPackage.GameManager;
-import com.example.ModelPackage.playerScore;
+import ca.cmpt276.gamemodule.model.Game;
+import ca.cmpt276.gamemodule.model.GameManager;
+import ca.cmpt276.gamemodule.model.playerScore;
 import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import java.util.Scanner;

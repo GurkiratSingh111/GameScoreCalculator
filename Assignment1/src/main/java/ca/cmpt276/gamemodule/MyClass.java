@@ -1,6 +1,7 @@
-import com.example.ModelPackage.GameManager;
+package ca.cmpt276.gamemodule;
 
-import TextUIPackage.TextUI;
+import ca.cmpt276.gamemodule.ui.TextUI;
+import ca.cmpt276.gamemodule.model.GameManager;
 
 public class MyClass {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.example.ModelPackage;
+package ca.cmpt276.gamemodule.model;
 
 public class playerScore {
     private int numberOfWagercards;

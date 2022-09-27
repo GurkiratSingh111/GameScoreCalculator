@@ -1,4 +1,4 @@
-package com.example.ModelPackage;
+package ca.cmpt276.gamemodule.model;
 import java.time.LocalDateTime;
 import java.util.ArrayList;
 
