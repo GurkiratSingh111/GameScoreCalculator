@@ -19,12 +19,15 @@ public class Game {
     {
         this.numberOfPlayers= numberOfPlayers;
     }
+
     public Game(int num)
     {
         numberOfPlayers=num;
         date= LocalDateTime.now();
         player= new ArrayList<playerScore>();
     }
+
+    //This function returns an arraylist of winners of the game
     public ArrayList<Integer> calculatewinner()
     {
         ArrayList<Integer> winner = new ArrayList<>();

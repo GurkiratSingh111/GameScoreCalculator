@@ -32,6 +32,7 @@ class playerScoreTest {
         playerScore ps = new playerScore(0,50,2);
         Assertions.assertEquals(0,ps.totalScore());
     }
+
     @Test
     public void checkNumberOfCards()
     {
@@ -45,6 +46,7 @@ class playerScoreTest {
         playerScore ps = new playerScore(8,40,2);
         Assertions.assertEquals(80,ps.totalScore());
     }
+
     @Test
     public void throwExceptionForNumberOfCards()
     {

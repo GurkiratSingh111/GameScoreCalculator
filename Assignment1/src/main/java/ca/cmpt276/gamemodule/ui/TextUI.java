@@ -15,8 +15,7 @@ public class TextUI {
     public TextUI(GameManager gameManager) {
         this.gameManager = gameManager;
     }
-    public void print_menu()
-    {
+    public void print_menu() {
         System.out.println("Menu:");
         System.out.println("--------------");
         System.out.println("1. List games");
